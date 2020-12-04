@@ -1,0 +1,9 @@
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\bin\Debug\LR_5-6.exe.config
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\bin\Debug\LR_5-6.exe
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\bin\Debug\LR_5-6.pdb
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5-6.csprojAssemblyReference.cache
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5_6.Form1.resources
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5_6.Properties.Resources.resources
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5-6.csproj.GenerateResource.cache
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5-6.exe
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5-6.pdb
