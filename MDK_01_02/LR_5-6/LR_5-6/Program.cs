@@ -17,7 +17,7 @@ namespace LR_5_6
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new task3());
+            Application.Run(new task5());
         }
     }
 }

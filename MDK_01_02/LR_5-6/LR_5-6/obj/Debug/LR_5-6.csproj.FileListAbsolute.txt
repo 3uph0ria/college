@@ -10,3 +10,4 @@ D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5-6.pdb
 D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5_6.forms.task2.resources
 D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5_6.forms.task3.resources
 D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5_6.forms.task4.resources
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5_6.forms.task5.resources
