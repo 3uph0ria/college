@@ -82,7 +82,7 @@
             this.input_dx.Name = "input_dx";
             this.input_dx.Size = new System.Drawing.Size(212, 20);
             this.input_dx.TabIndex = 37;
-            this.input_dx.Text = "-0,2";
+            this.input_dx.Text = "0,2";
             // 
             // label3
             // 
@@ -99,7 +99,7 @@
             this.input_xk.Name = "input_xk";
             this.input_xk.Size = new System.Drawing.Size(212, 20);
             this.input_xk.TabIndex = 35;
-            this.input_xk.Text = "-3,05";
+            this.input_xk.Text = "3,05";
             // 
             // label2
             // 
@@ -116,7 +116,7 @@
             this.input_x0.Name = "input_x0";
             this.input_x0.Size = new System.Drawing.Size(212, 20);
             this.input_x0.TabIndex = 33;
-            this.input_x0.Text = "-2,05";
+            this.input_x0.Text = "2,05";
             // 
             // label1
             // 
