@@ -1,11 +1,10 @@
-﻿using LR_5_6.forms;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LR_5_6
+namespace LR_7_8
 {
     static class Program
     {
@@ -17,7 +16,7 @@ namespace LR_5_6
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new task2());
+            Application.Run(new task1());
         }
     }
 }

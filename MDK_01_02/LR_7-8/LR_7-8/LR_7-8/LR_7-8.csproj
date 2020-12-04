@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0CDFB2FA-F6C1-425D-8261-0FDEDB1C144B}</ProjectGuid>
+    <ProjectGuid>{AF45AFD9-C04E-4459-8AAF-F0F20B2C2C1D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>LR_5_6</RootNamespace>
-    <AssemblyName>LR_5-6</AssemblyName>
+    <RootNamespace>LR_7_8</RootNamespace>
+    <AssemblyName>LR_7-8</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -63,9 +63,6 @@
     <EmbeddedResource Include="forms\task1.resx">
       <DependentUpon>task1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="forms\task2.resx">
-      <DependentUpon>task2.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -88,5 +85,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

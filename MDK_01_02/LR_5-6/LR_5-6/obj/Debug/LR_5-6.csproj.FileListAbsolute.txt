@@ -7,3 +7,4 @@ D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5_6.Properties.Resources.res
 D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5-6.csproj.GenerateResource.cache
 D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5-6.exe
 D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5-6.pdb
+D:\Git\college\MDK_01_02\LR_5-6\LR_5-6\obj\Debug\LR_5_6.forms.task2.resources
