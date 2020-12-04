@@ -14,7 +14,7 @@ namespace LR_7_8
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new task3());
+            Application.Run(new task4());
         }
     }
 }
