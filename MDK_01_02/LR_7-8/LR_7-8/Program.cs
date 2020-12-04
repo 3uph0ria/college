@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using LR_7_8.forms;
+using System;
 using System.Windows.Forms;
 
 namespace LR_7_8
@@ -16,7 +14,7 @@ namespace LR_7_8
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new task1());
+            Application.Run(new task2());
         }
     }
 }
